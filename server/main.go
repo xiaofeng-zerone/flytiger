@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/xiaofeng-zerone/flytiger/core"
+	"github.com/xiaofeng-zerone/flytiger/server/core"
 )
 
 func main() {
